@@ -1,0 +1,30 @@
+# Raw NHS data files — not committed (too large; download from NHS England directly)
+*.csv
+*.xlsx
+*.xls
+data/
+raw_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code / editors
+.vscode/
+.idea/
+
+# Obsidian
+.obsidian/
